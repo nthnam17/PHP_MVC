@@ -1,0 +1,28 @@
+Tiến Độ Công Việc
+1.Admin 70%
+    category --ok
+        show  --ok
+        edit    --ok
+        create  --ok
+        delete  --ok
+    product --ok
+        show --ok
+        edit --ok
+        create --ok
+        delete --ok
+    adminlogin --80%
+        show --ok
+        edit  --ok
+        create --ok
+        delete --ok
+        login  --ok
+        changePass
+        Forgot Password
+    order
+2.client
+    category
+    product
+    login
+    cart
+    order
+    
